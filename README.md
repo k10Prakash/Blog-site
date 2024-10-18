@@ -1,5 +1,5 @@
 # NodeJs Projects
-## Project#04: NodeBlog
+## Blog site
 
 - NodeJs + Express + MongoDB (monk)
 - Building full CRUD methods for posts
